@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "b2b-consultor",
+    "slug": "b2b-consultor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
